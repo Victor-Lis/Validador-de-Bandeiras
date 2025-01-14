@@ -3,8 +3,6 @@
 Este projeto é um validador de bandeiras de cartão de crédito, que suporta as seguintes bandeiras: Visa, Mastercard, American Express, Amex, Elo, Hipercard e Discover.
 
 ## Estrutura do Projeto
-```
-## Estrutura do Projeto
 
 ```
 card-validator
