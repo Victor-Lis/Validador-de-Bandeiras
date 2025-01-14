@@ -1,0 +1,19 @@
+{
+  "name": "validador-de-bandeiras",
+  "version": "1.0.0",
+  "description": "Validador de bandeiras de cartão de crédito.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "cartão",
+    "validador",
+    "bandeira"
+  ],
+  "author": "",
+  "license": "ISC"
+}
